@@ -37,7 +37,7 @@ minikube start --network-plugin=cni --cni=calico --nodes 2 -p multinode-demo
 
 ![](/lab4/screenshots/labeledNodes.png)
 
-Удаляем созданные по умолчанию IPPools коммандой:
+Удаляем созданные по умолчанию IPPools командой:
 
 ```
 kubectl delete ippools default-ipv4-ippool
@@ -51,7 +51,7 @@ kubectl-calico apply -f ippool.yaml --allow-version-mismatch
 
 ![](/lab4/screenshots/applyPool.png)
 
-Получим пуллы коммандой:
+Получим пуллы командой:
 
 ```
 kubectl get ippools
@@ -59,7 +59,7 @@ kubectl get ippools
 
 ![](/lab4/screenshots/pools.png)
 
-После были применены `deployment.yaml` и `service.yaml` из второй лабораторной работы коммандами:
+После были применены `deployment.yaml` и `service.yaml` из второй лабораторной работы командами:
 
 ```
 kubectl apply -f ./deployment.yaml
