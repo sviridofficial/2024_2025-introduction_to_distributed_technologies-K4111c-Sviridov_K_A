@@ -31,6 +31,7 @@ minikube kubectl -- apply -f ./lab1/vault-pod.yaml
 ```
 
 ![](/lab1/screenshots/applyPodCommand.png)
+![](/lab1/screenshots/getPods.png)
 
 5. Был создан сервис при помощи команды:
 
