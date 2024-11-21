@@ -18,7 +18,7 @@ Date of finished: 21.11.2024
 
 1. Был создан манифест `configMap.yaml` для configMap:
 
-   ![](/lab3/screenshots/applyConfigMap.png)
+![](/lab3/screenshots/applyConfigMap.png)
 
 2. Были созданы манифесты `replicaset.yaml` и `service.yaml`, энвы в поды были прокинуты через configMap:
 
