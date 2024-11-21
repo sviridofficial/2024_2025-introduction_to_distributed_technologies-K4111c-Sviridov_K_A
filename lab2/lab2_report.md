@@ -6,7 +6,7 @@ Group: K4111c</br>
 Author: Sviridov Konstantin Andreevich</br>
 Lab: Lab2</br>
 Date of create: 05.11.2024</br>
-Date of finished:
+Date of finished: 21.11.2024
 
 ## Лабораторная работа №2 "Развертывание веб сервиса в Minikube, доступ к веб интерфейсу сервиса. Мониторинг сервиса."
 

@@ -6,7 +6,7 @@ Group: K4111c</br>
 Author: Sviridov Konstantin Andreevich</br>
 Lab: Lab4</br>
 Date of create: 06.11.2024</br>
-Date of finished:
+Date of finished: 21.11.2024
 
 ## Лабораторная работа №4 "Сети связи в Minikube, CNI и CoreDNS"
 

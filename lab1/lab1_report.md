@@ -6,7 +6,7 @@ Group: K4111c</br>
 Author: Sviridov Konstantin Andreevich</br>
 Lab: Lab1</br>
 Date of create: 04.11.2024</br>
-Date of finished:</br>
+Date of finished: 21.11.2024</br>
 
 ## Лабораторная работа №1 "Установка Docker и Minikube, мой первый манифест."
 

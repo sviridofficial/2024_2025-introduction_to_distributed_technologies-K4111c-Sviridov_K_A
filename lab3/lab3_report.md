@@ -6,7 +6,7 @@ Group: K4111c</br>
 Author: Sviridov Konstantin Andreevich</br>
 Lab: Lab3</br>
 Date of create: 05.11.2024</br>
-Date of finished:
+Date of finished: 21.11.2024
 
 ## Лабораторная работа №3 "Сертификаты и "секреты" в Minikube, безопасное хранение данных."
 
